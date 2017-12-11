@@ -26,3 +26,6 @@ If you’re interesting to purchase this tool, please follow this link [https://
 The scraper come with a documentation.
 
 I will assist you on installing and configuring the scraper in your machine/server and run it together until you see data in the output file.
+
+## Sample Output
+Click on this link [instagram_scraper/sample_output_instagram_scraper.csv](sample_output_instagram_scraper.csv) to see a sample output of the scraper.
