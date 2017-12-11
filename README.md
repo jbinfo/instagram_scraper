@@ -20,7 +20,7 @@ Extracted fields are:
 - hashtag
 
 ## Purchase
-If you’re interesting to purchase this tool, please follow this link [https://goo.gl/5SyXEi](https://goo.gl/5SyXEi) and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
+If you’re interesting to purchase this scraper, please follow this link [https://goo.gl/5SyXEi](https://goo.gl/5SyXEi) and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
 
 ## Support
 The scraper come with a documentation.
