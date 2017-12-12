@@ -2,8 +2,6 @@
 Extract instagram users informations from hashtags
 The scraper is based on the Scrapy framework [http://scrapy.org](http://scrapy.org), only running on CLI(terminal).
 
-This scraper extract users infromations from hashtags.
-
 #### Data
 Extracted fields are:
 - userId
