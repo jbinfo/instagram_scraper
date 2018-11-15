@@ -1,5 +1,5 @@
 # Instagram Scraper
-Extract instagram users informations from hashtags. This scraper can extract emails address from Bio section and business email.
+Extract instagram users informations from hashtags. This scraper can extract emails addresses from Bio section and business email.
 
 #### Data
 Extracted fields are:
