@@ -1,6 +1,5 @@
 # Instagram Scraper
-Extract instagram users informations from hashtags
-The scraper is based on the Scrapy framework [http://scrapy.org](http://scrapy.org), only running on CLI(terminal).
+Extract instagram users informations from hashtags. This scraper can extract emails address from Bio section and business email.
 
 #### Data
 Extracted fields are:
@@ -15,10 +14,19 @@ Extracted fields are:
 - fbPage
 - followersCount
 - followingCount
+- isBusinessAccount
+- businessCategory
+- businessEmail
+- businessPhone
+- businessAddressStreet
+- businessAddressZipcode
+- businessAddressCity
+- businessAddressRegion
+- businessAddressCountryCode
 - hashtag
 
 ## Purchase
-If you’re interesting to purchase this scraper, please follow this link [https://goo.gl/5SyXEi](https://goo.gl/5SyXEi) and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
+If you’re interesting to purchase this scraper, please drop me a message on this email address [mailtp:baazzilhassan@gmail.com](baazzilhassan@gmail.com).
 
 ## Support
 The scraper come with a documentation.
