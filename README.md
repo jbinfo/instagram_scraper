@@ -26,7 +26,7 @@ Extracted fields are:
 - hashtag
 
 ## Purchase
-If you’re interesting to purchase this scraper, please drop me a message on this email address [mailtp:baazzilhassan@gmail.com](baazzilhassan@gmail.com).
+If you’re interesting to purchase this scraper, please drop me a message on this email address [baazzilhassan@gmail.com](mailto:baazzilhassan@gmail.com).
 
 ## Support
 The scraper come with a documentation.
@@ -34,4 +34,4 @@ The scraper come with a documentation.
 I will assist you on installing and configuring the scraper in your machine/server and run it together until you see data in the output file.
 
 ## Sample Output
-<script src="https://gist.github.com/jbinfo/0f3a0ed29fbdb09bced093775bfd0028.js"></script>
+https://gist.github.com/jbinfo/0f3a0ed29fbdb09bced093775bfd0028.js
